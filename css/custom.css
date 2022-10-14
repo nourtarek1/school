@@ -1,0 +1,12 @@
+.service_img{
+    width: 200px;
+    height: 100px;
+}
+.service_p{
+    font-size: 80%;
+    text-align: center;
+    width: 200px;
+    word-break: break-all;
+    white-space: pre-wrap;
+}
+
